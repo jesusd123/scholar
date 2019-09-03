@@ -94,7 +94,12 @@ public class Persona {
     }
 
     public void printName() {
-        System.out.println(this.nombre + " " + this.apellido);       
+        System.out.println(this.nombre + " " + this.apellido);
+    }
+
+    public String calcEdad() {
+        return "Aquí el algoritmo para calcular la edad a partir de la fecha: " + this.fecha_nacimiento;
+
     }
 
 }
