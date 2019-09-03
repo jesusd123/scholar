@@ -1,7 +1,0 @@
-
-Cambio de credenciales.
-
-git config user.name "jesusd123"
-git config user.email jesusdavid3608@gmail.com
-git remote add https://github.com/jesusd123/(Tu Repo)
-git remote add origin https://github.com/jesusd123/(Tu Repo)
